@@ -30,7 +30,7 @@ bio: My research interests include distributed systems, graphs, and cloud-edge a
 # Interests to show in About widget
 interests:
   - Distributed and Decentralized Systems
-  - Graphs Analysis and GNN
+  - Graphs Analysis and GNNs
   - Cloud-Edge continuum
 
 # Education to show in About widget
