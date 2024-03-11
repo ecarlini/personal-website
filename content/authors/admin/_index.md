@@ -113,7 +113,7 @@ social:
   #  icon_pack: ai
   #  link: uploads/resume.pdf
   - icon: orcid
-    icon-pack: academicons
+    icon-pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
 
 # Highlight the author in author lists? (true/false)
