@@ -29,7 +29,7 @@ bio: My research interests include distributed systems, graphs, and cloud-edge a
 
 # Interests to show in About widget
 interests:
-  - Distributed and Decentralized Systems
+  - Decentralized Systems
   - Graphs Analysis and GNNs
   - Cloud-Edge continuum
 
@@ -90,22 +90,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'emanuele.carlini@isti.cnr.it'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
   #  label: Follow me on Twitter
   #  display:
    #   header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.it/citations?user=r-Tw6JQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ecarlini
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ecarlini/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -113,13 +113,16 @@ social:
   #  icon_pack: ai
   #  link: uploads/resume.pdf
   - icon: orcid
-    icon-pack: fab
+    icon-pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! I am a researcher in computer science at the ....
-bla bla
+Hi, Emanuele here! I am a researcher in computer science at the [High Performance Computing laboratory](http://hpc.isti.cnr.it/) of the [Institute of Information Science and Technologies](https://www.isti.cnr.it) of the [National reserach Council of Italy (CNR)](https://www.cnr.it/en). My research focuses on decentralied approaches applied to application orchestration in Cloud-Edge platforms and graph analysis, but I am also tinkering on temporal community detection with GNNs.
+
+I am very active on European-funded project, currently busy with EDGELESS, and former Coordinator of the ACCORDION project (ended in 2023).
+
+
 {style="text-align: justify;"}
