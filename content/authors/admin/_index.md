@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science and Engineering
-      institution: IMT Lucca
+      institution: IMT Lucca, Italy
       year: 2012
     - course: Master Degree in Computer Science
       institution: University of Pisa, Italy
@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'emanuele.carlini@isti.cnr.it'
+    link: emanuele.carlini@isti.cnr.it
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -113,16 +113,13 @@ social:
   #  icon_pack: ai
   #  link: uploads/resume.pdf
   - icon: orcid
-    icon-pack: ai
+    icon-pack: academicons
     link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, Emanuele here! I am a researcher in computer science at the [High Performance Computing laboratory](http://hpc.isti.cnr.it/) of the [Institute of Information Science and Technologies](https://www.isti.cnr.it) of the [National reserach Council of Italy (CNR)](https://www.cnr.it/en). My research focuses on decentralied approaches applied to application orchestration in Cloud-Edge platforms and graph analysis, but I am also tinkering on temporal community detection with GNNs.
+Hi, Emanuele here! I am a researcher in computer science at the [High Performance Computing laboratory](http://hpc.isti.cnr.it/) of the [Institute of Information Science and Technologies](https://www.isti.cnr.it) of the [National reserach Council of Italy (CNR)](https://www.cnr.it/en). My research focuses on decentralied approaches applied to application orchestration in Cloud-Edge platforms and graph analysis, but I am also tinkering on temporal community detection with GNNs. {style="text-align: justify;"}
 
-I am very active on European-funded project, currently busy with EDGELESS, and former Coordinator of the ACCORDION project (ended in 2023).
-
-
-{style="text-align: justify;"}
+I am very active on European-funded project, currently busy with EDGELESS, and former Coordinator of the ACCORDION project (ended in 2023).{style="text-align: justify;"}
