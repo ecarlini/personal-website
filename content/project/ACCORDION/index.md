@@ -20,6 +20,10 @@ links:
     icon_pack: fab
     name: LinkedIn
     url: https://www.linkedin.com/company/accordion-h2020/
+  - icon: youtube
+    icon_pack: fab
+    name: Watch
+    url: https://www.youtube.com/channel/UC6YALa5A_nEo1VwyyUPhnDA
 
 
 url_code: ''

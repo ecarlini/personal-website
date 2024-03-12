@@ -100,6 +100,9 @@ social:
   - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.it/citations?user=r-Tw6JQAAAAJ
+  - icon: orcid
+    icon-pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
   - icon: github
     icon_pack: fab
     link: https://github.com/ecarlini
@@ -112,9 +115,7 @@ social:
   #- icon: cv
   #  icon_pack: ai
   #  link: uploads/resume.pdf
-  - icon: open-access
-    icon-pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
