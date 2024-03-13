@@ -3,7 +3,7 @@ title: ACCORDION
 summary: I was the coordinator of the ACCORDION project, a 3-year venture ended in April 2023. ACCORDION established an opportunistic approach in bringing together edge resource/infrastructures (public clouds, on-premise infrastructures, telco resources, end-devices) in pools defined in terms of latency, which can support NextGen application requirements. 
 tags:
   - eu
-#date: '2016-04-27T00:00:00Z'
+date: '2020'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.accordion-project.eu/'

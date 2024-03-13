@@ -101,7 +101,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.it/citations?user=r-Tw6JQAAAAJ
   - icon: orcid
-    icon-pack: ai
+    icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0003-3643-5404
   - icon: github
     icon_pack: fab

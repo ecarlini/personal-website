@@ -5,12 +5,24 @@ date: 2022-10-24
 type: landing
 
 sections:
+
   - block: about.biography
     id: about
     content:
       title: "" #Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: collection
+    id: news
+    content:
+      title: News
+      #filters:
+      folders:
+        - event
+    design:
+      columns: '2'
+      view: compact
   #- block: skills
   #  content:
   #    title: Skills
@@ -126,7 +138,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Research and Projects
+      title: Projects
       filters:
         folders:
           - project
@@ -137,27 +149,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Research Activities
-          tag: research
-        - name: EU Projects
-          tag: eu
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Research Activities
+      #     tag: research
+      #   - name: EU Projects
+      #     tag: eu
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
   # - block: collection
   #   id: featured
   #   content:
@@ -173,10 +177,10 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -184,16 +188,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: News
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+
   - block: collection
     id: teaching
     content:
