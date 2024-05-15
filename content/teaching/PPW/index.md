@@ -1,16 +1,17 @@
 ---
-title: Progettazione e Programmazione Web (in Italian)
-summary: University of Pisa, 2024
+title: Progettazione e Programmazione Web (Web Design)
+summary: Degree in Digital humanities, University of Pisa.
 
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://elearning22.humnet.unipi.it/enrol/index.php?id=1050'
 
+date: '2024'
 
 links:
-  - icon: web
-    icon_pack: fab
-    name: Course site (in Ialian)
+  - icon: moodle
+    icon_pack: ai
+    name: Moodle (Italian)
     url: https://elearning22.humnet.unipi.it/enrol/index.php?id=1050
 
 
