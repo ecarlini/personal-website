@@ -7,6 +7,7 @@ summary: Degree in Digital humanities, University of Pisa.
 external_link: 'https://elearning22.humnet.unipi.it/enrol/index.php?id=1050'
 
 date: '2024'
+lastmod: '2024-03-01T00:00:00Z'
 
 links:
   - icon: moodle
