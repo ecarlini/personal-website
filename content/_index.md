@@ -19,7 +19,7 @@ sections:
       title: News
       filters:
         folders:
-          - event
+          - news
     design:
       columns: '2'
       view: compact
@@ -140,7 +140,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
+      title: EU Projects
       filters:
         folders:
           - project
