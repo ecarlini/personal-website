@@ -121,6 +121,6 @@ social:
 highlight_name: true
 ---
 
-Hi, Emanuele here! I am a researcher in computer science at the [High Performance Computing laboratory](http://hpc.isti.cnr.it/) of the [Institute of Information Science and Technologies](https://www.isti.cnr.it) of the [National reserach Council of Italy (CNR)](https://www.cnr.it/en). My research focuses on decentralied approaches applied to application orchestration in Cloud-Edge platforms and graph analysis, but I am also tinkering on temporal community detection with GNNs. 
+Hi, Emanuele here! I am a researcher in computer science at the [High Performance Computing laboratory](http://hpc.isti.cnr.it/) of the [Institute of Information Science and Technologies](https://www.isti.cnr.it) of the [National reserach Council of Italy (CNR)](https://www.cnr.it/en). My main research lies at the intersection of decentralized systems and graph analysis, which we are applying to application orchestration and resource management for Cloud-Edge platforms, but I am also tinkering on temporal community detection with GNNs. 
 
 I am very active on European-funded project, currently busy with EDGELESS, and former Coordinator of the ACCORDION project (ended in 2023).
