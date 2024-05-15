@@ -14,15 +14,17 @@ sections:
       username: admin
 
   - block: collection
-    id: news
+    id: talks
     content:
       title: News
-      #filters:
-      folders:
-        - event
+      filters:
+        folders:
+          - event
     design:
       columns: '2'
       view: compact
+
+
   #- block: skills
   #  content:
   #    title: Skills
@@ -189,23 +191,14 @@ sections:
       columns: '2'
       view: citation
 
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: News
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+
   - block: collection
     id: teaching
     content:
       title: Teaching
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
       view: compact
