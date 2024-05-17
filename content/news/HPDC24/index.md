@@ -1,6 +1,6 @@
 ---
 title: Local Arrangements Chair of HPDC24! 
-subtitle: The conference takes place in Pisa Italy, June 3-7, 2024.
+summary: The conference takes place in Pisa Italy, June 3-7, 2024.
 
 # Summary for listings and search engines
 
